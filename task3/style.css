@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.btn{
+    margin: 35px;
+    padding: 5px;
+    color: white;
+    border: 1px solid black ;
+    background-color: gray;
+}
+.btn:hover{
+    color: black;
+}
+.sum{
+    margin: 25px;
+    padding: 5px;
+    color: black;
+    background-color: blue;
+}
+.sum:hover{
+    color: gray;
+}
